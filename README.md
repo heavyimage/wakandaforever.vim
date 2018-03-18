@@ -9,12 +9,14 @@ Inspired by:
 * [This template for a vim colorscheme](https://github.com/ggalindezb/Vim-Colorscheme-Template)
 
 # Colors (from article):
-Red:        (187 68 80)         #BB4450
-Orange:     (241 161 87)        #F1A157
-Blue:       (125 144 150)       #7D9096
-Dry grass:  (155 132 92)        #9B845C
-skin Tone:  (102 73 64)         #664940
-Eggplant:   (86 57 71)          #563947
+| color name | rgb | hex |
+| ---------- | --- | --- |
+| Red        | 187, 68, 80    | #BB4450 |
+| Orange     | 241, 161, 87   | #F1A157 |
+| Blue       | 125, 144, 150  | #7D9096 |
+| Dry grass  | 155, 132, 92   | #9B845C |
+| skin Tone  | 102, 73, 64    | #664940 |
+| Eggplant   | 86, 57, 71     | #563947 |
 
 # More links:
 * [Nice 8 color theme](https://github.com/agude/vim-eldar)
