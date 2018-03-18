@@ -1,5 +1,7 @@
 # Wakanda Forever!
 
+![Black Panther Characters](https://github.com/heavyimage/wakandaforever.vim/blob/master/reference/reference1.jpg)
+
 Inspired by:
 * A desire to understand vim colorschemes better
 * [This article](http://adeepoberoi.com/black-panther-color-grading-palette/) about the Black Panther visual colorscheme
