@@ -9,7 +9,7 @@ Inspired by:
 * [This template for a vim colorscheme](https://github.com/ggalindezb/Vim-Colorscheme-Template)
 
 # Colors (from article):
-| color name | rgb | hex |
+| Color Name | RGB | HEX |
 | ---------- | --- | --- |
 | Red        | 187, 68, 80   | #BB4450 |
 | Orange     | 241, 161, 87  | #F1A157 |
