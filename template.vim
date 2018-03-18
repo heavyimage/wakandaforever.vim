@@ -1,19 +1,19 @@
 " Vim colorscheme template file
-" Author: Gerardo Galindez <gerardo.galindez@gmail.com>
-" Maintainer: Gerardo Galindez <gerardo.galindez@gmail.com>
+" Author: Jesse Spielman <Jesse.Spielman@gmail.com>
+" Maintainer: Jesse Spielman <Jesse.Spielman@gmail.com>
 " Notes: To check the meaning of the highlight groups, :help 'highlight'
 
 " --------------------------------
 set background=dark
 " - or ---------------------------
-set background=light
+" set background=light
 " --------------------------------
 
 highlight clear
 if exists("syntax_on")
     syntax reset
 endif
-let g:colors_name="Colorscheme name"
+let g:colors_name="wakandaforever"
 
 "----------------------------------------------------------------
 " General settings                                              |
