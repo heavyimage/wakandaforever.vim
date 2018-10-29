@@ -19,6 +19,7 @@ Inspired by:
 | Purple     | 86, 57, 71    | #563947 |
 
 # More links:
+* [An Architure for building themes](https://github.com/chriskempson/base16)
 * [Nice 8 color theme](https://github.com/agude/vim-eldar)
 * [256 color palatte for cterm colors](https://jonasjacek.github.io/colors/)
 * [color scheme generator in ruby](https://gist.github.com/romainl/5cd2f4ec222805f49eca)
