@@ -1,6 +1,6 @@
 # Wakanda Forever!
 
-![Black Panther Characters](https://github.com/heavyimage/wakandaforever.vim/blob/master/reference/reference1.jpg)
+![Black Panther Characters](https://raw.githubusercontent.com/heavyimage/wakandaforever.vim/master/reference/reference1.jpg)
 
 Inspired by:
 * A desire to understand vim colorschemes better
